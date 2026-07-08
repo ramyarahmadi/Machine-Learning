@@ -5,15 +5,16 @@ We need pass this step for starting our projects
 # 🥇first need to install jupyter notebook by anaconda or ...
 
 # 🥈Step_2
- conda create --name myenv python=3.11.1
+```bash
+    conda create --name myenv python=3.11.1
 # 🥉Step_3
-**conda activate myenv**
+    conda activate myenv
 # 🏅Step_4
-**conda install ipykernel**
+    conda install ipykernel
 # 🎯Step_5
-**python -m ipykernel install --user --name myenv --display-name "Python 3.11.1 (MyEnv)"**
+    python -m ipykernel install --user --name myenv --display-name "Python 3.11.1 (MyEnv)"
 
-**conda install -c conda-forge numpy pandas matplotlib scikit-learn**
+    conda install -c conda-forge numpy pandas matplotlib scikit-learn
 
 
 
