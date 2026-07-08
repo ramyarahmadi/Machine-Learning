@@ -5,7 +5,7 @@ We need pass this step for starting our projects
 # 🥇first need to install jupyter notebook by anaconda or ...
 
 # 🥈Step_2
-**conda create --name myenv python=3.11.1**
+ conda create --name myenv python=3.11.1
 # 🥉Step_3
 **conda activate myenv**
 # 🏅Step_4
