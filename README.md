@@ -11,17 +11,17 @@ To set up your environment and run the projects, follow these steps:
 conda create --name myenv python=3.11.1
 
 conda activate myenv
-
+`
 2. **Install ipykernel to use this environment in Jupyter:**
 ```bash
 conda install ipykernel
 
 python -m ipykernel install --user --name myenv --display-name "Python 3.11.1 (MyEnv)"
-
+`
 
 3. **Install essential ML libraries (NumPy, Pandas, Matplotlib, Scikit-learn):We recommend using conda-forge for optimal compatibility.**
 ```bash
 conda install -c conda-forge numpy pandas matplotlib scikit-learn
 
-
+`
 
