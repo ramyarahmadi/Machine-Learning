@@ -36,3 +36,26 @@ Welcome to my Machine Learning study repository! This repository serves as a dig
 ---
 
 
+
+
+
+## 🛠️ Tech Stack
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+
+In this machine learnin journey, I utilize a robust ecosystem of Python libraries to handle everything from data manipulation to advanced model deployment. Below are the core technologies I am working with:
+
+* **[NumPy](https://numpy.org/):** Essential for high-performance scientific computing and efficient multi-dimensional array operations.
+* **[Seaborn](https://seaborn.pydata.org/):** Used for drawing attractive and informative statistical graphics to enhance data exploration.
+* **[Matplotlib](https://matplotlib.org/):** A fundamental library for creating static, animated, and interactive visualizations to understand data patterns.
+* **[Pandas](https://pandas.pydata.org/):** The backbone of my data analysis, used for data cleaning, manipulation, and structured data processing via DataFrames.
+* **[Scikit-Learn](https://scikit-learn.org/):** My primary toolkit for implementing classical machine learning algorithms, including regression, classification, and clustering.
+* **[PyTorch](https://pytorch.org/):** A powerful deep learning framework used for building and training neural networks with dynamic computational graphs.
+---
