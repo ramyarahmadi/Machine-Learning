@@ -3,6 +3,7 @@
 Welcome to my Machine Learning study repository! This repository serves as a digital notebook where I document my progress, insights, and implementations from every session of my Machine Learning course.
 
 ---
+![Machine Learning Diagram](https://github.com/ramyarahmadi/Machine-Learning/blob/main/MLClass/ML.png)
 
 ## 🎯 ObjectiveThe goal of this repository is to bridge the gap between theoretical concepts and practical implementation, creating a searchable knowledge base for my future self and others.
 
