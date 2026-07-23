@@ -16,9 +16,9 @@ Welcome to my Machine Learning study repository! This repository serves as a dig
 
 | Session_01 | Introduction to ML  | Supervised vs Unsupervised, Types of Data | ✅ Done |
 
-| Session_02 | Linear Regression   | Cost Function, Gradient Descent           | 🏃 In Progress |
+| Session_02 | Linear Regression   | Classification (Kneighbor model)          | ✅ Done |
 
-| Session_03 | Logistic Regressio  | Sigmoid Function, Decision Boundary    | ⏳ Pending |
+| Session_03 | ------------------  | Sigmoid Function, Decision Boundary    | ⏳ Pending |
 
 | Session_04 | ------------------- | -------------------------------------- | ⏳ Pending |
 
