@@ -51,6 +51,4 @@ Common tools and libraries used across projects:
 - TensorFlow / PyTorch
 - Matplotlib, Seaborn
 
----
 
-Feel free to explore each project folder for more details, code, and results.
